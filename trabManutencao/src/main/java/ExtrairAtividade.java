@@ -1,3 +1,4 @@
+import java.awt.Desktop;
 import java.io.File;
 import java.io.IOException;
 import java.text.Normalizer;
@@ -5,6 +6,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.StringTokenizer;
+
 import AlgortimosConversao.AtividadesAcademicasEspeciais;
 import AlgortimosConversao.AtividadesAdministrativas;
 import AlgortimosConversao.AtividadesEnsino;
@@ -37,11 +39,10 @@ public class ExtrairAtividade {
     }
 
 
-    public static void main( String[] args ){
+    public static void main( String[] args ) throws IOException{
 
         List<Leiaute> lista      = new ArrayList<Leiaute>();
         TxtExport     txtRadocExport = new TxtExport();
-        Leiaute       leiauteRadoc;
         HashMap<String, Resolucao> resolucao = new HashMap<String, Resolucao>();
         
         ListaResolucao listaResolucao = (ListaResolucao) new JsonParser(ListaResolucao.class,"/home/gabriel/atividades.json").leJson();
@@ -159,12 +160,14 @@ public class ExtrairAtividade {
                 radocParts = radocParts.replaceAll(linha, "");
 
                 txtRadocExport.exportarListaRadocs(lista);
+
             }
 
         }catch (IOException e ){
             e.printStackTrace();
         }
 
+        Desktop.getDesktop().open(new File("AtividadesExtraídas.txt"));
         System.exit(0);
     }
 

@@ -1,0 +1,126 @@
+001001001000
+1
+INTEGRACAO DE APLICACOES         
+64
+01/01/2015
+30/06/2015
+001001001000
+2
+MANUTENCAO DE SOFTWARE         
+64
+01/01/2015
+30/06/2015
+001001001000
+3
+PROJETO FINAL DE CURSO          
+32
+01/01/2015
+30/06/2015
+001001001000
+4
+PROJETO FINAL DE CURSO  NC         
+64
+01/01/2015
+30/06/2015
+001001001000
+5
+INTEGRACAO          
+64
+01/07/2015
+31/12/2015
+001001001000
+6
+INTEGRACAO          
+64
+01/07/2015
+31/12/2015
+001001001000
+7
+PROJETO FINAL DE CURSO          
+32
+01/07/2015
+31/12/2015
+005001013000
+8
+ IMPLANTACAO DE PROCESSOS DO COBIT EM PEQUENA OU MEDIA EMPRESA
+1
+103/08/2015
+131/12/2015
+005001013000
+9
+ ESTUDO DE CASO: PLANEJAMENTO DE IMPLANTACAO DE PROCESSOS ITIL EM UMA MICROEMPRESA BRASILEIRA
+1
+101/01/2015
+131/07/2015
+005001013000
+10
+
+1
+101/01/2015
+131/07/2015
+003002005000
+11
+ Simposio Brasileiro de Sistemas de Informacao
+100
+30/06/2014
+DataTermino:15/07/2015
+003002005000
+12
+ Museu de Ciencia da UFG
+80
+01/01/2015
+DataTermino:10/12/2015
+003001003000
+13
+ ESTRATEGIAS E METODOS PARA MELHORIA DE SOFTWARE
+304
+04/01/2010
+DataTermino:31/12/2015
+004002005000
+14
+ Atividades academicas e administrativas designadas por portaria do Reitor, Pro-Reitor ou Diretor de Unidade Academica com carga horaria >=150 horas
+150
+5001/01/2015
+5031/12/2015
+004003006000
+15
+ Membros da CPPD ou da Comissao de Avaliacao Institucional ou da Comissao Propria de Avaliacao ou da CAD
+120
+2001/01/2015
+2031/12/2015
+000000000000
+16
+ Outras Atividades Administrativas e de Representacao
+9
+01/01/2015
+30/04/2015
+004002005000
+17
+ Atividades academicas e administrativas designadas por portaria do Reitor, Pro-Reitor ou Diretor de Unidade Academica com carga horaria >=150 horas
+150
+5001/01/2015
+5031/12/2015
+000000000000
+18
+ Outras Atividades Administrativas e de Representacao
+8
+01/01/2015
+31/12/2015
+000000000000
+19
+ Outras Atividades Administrativas e de Representacao
+8
+01/01/2015
+30/11/2015
+000000000000
+20
+ Outras Atividades Administrativas e de Representacao
+9
+09/02/2015
+12/02/2015
+004002005000
+21
+ Atividades academicas e administrativas designadas por portaria do Reitor, Pro-Reitor ou Diretor de Unidade Academica com carga horaria >=150 horas
+8
+18/05/2015
+31/12/2015

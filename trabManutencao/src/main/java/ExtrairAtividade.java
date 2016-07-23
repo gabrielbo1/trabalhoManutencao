@@ -44,7 +44,7 @@ public class ExtrairAtividade {
         Leiaute       leiauteRadoc;
         HashMap<String, Resolucao> resolucao = new HashMap<String, Resolucao>();
         
-        ListaResolucao listaResolucao = new ListaResolucao();
+        ListaResolucao listaResolucao = (ListaResolucao) new JsonParser(ListaResolucao.class,"/home/gabriel/atividades.json").leJson();
         listaResolucao.getResolucao().forEach((a) -> resolucao.put(a.getIdunico(), a));
 		
         try{
